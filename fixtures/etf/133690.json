@@ -1,0 +1,9 @@
+{ "etf": "133690", "asOf": "2026-08-31", "source": "Mirae Asset TIGER 미국나스닥100 PDF (static POC snapshot)",
+  "holdings": [
+    { "symbol": "NVDA", "name": "NVIDIA", "weightPct": 8.8 }, { "symbol": "MSFT", "name": "Microsoft", "weightPct": 8.0 },
+    { "symbol": "AAPL", "name": "Apple", "weightPct": 7.5 }, { "symbol": "AMZN", "name": "Amazon", "weightPct": 5.5 },
+    { "symbol": "AVGO", "name": "Broadcom", "weightPct": 5.0 }, { "symbol": "META", "name": "Meta Platforms", "weightPct": 3.5 },
+    { "symbol": "TSLA", "name": "Tesla", "weightPct": 2.8 }, { "symbol": "GOOGL", "name": "Alphabet A", "weightPct": 2.7 },
+    { "symbol": "GOOG", "name": "Alphabet C", "weightPct": 2.6 }, { "symbol": "NFLX", "name": "Netflix", "weightPct": 2.5 },
+    { "symbol": "COST", "name": "Costco", "weightPct": 2.3 }
+  ] }

@@ -1,0 +1,1 @@
+ALTER TABLE `agent_runs` ADD `user_id` text DEFAULT 'demo' NOT NULL;

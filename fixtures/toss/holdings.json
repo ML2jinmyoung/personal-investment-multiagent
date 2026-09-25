@@ -1,0 +1,28 @@
+{ "result": {
+  "totalPurchaseAmount": { "krw": "5760000", "usd": "22820" },
+  "marketValue": { "amount": { "krw": "6960000", "usd": "30808.9" }, "amountAfterCost": { "krw": "6948000", "usd": "30778" } },
+  "profitLoss": { "amount": { "krw": "1200000", "usd": "7988.9" }, "amountAfterCost": { "krw": "1188000", "usd": "7958" }, "rate": "0.3392", "rateAfterCost": "0.3371" },
+  "dailyProfitLoss": { "amount": { "krw": "55200", "usd": "-1096.7" }, "rate": "-0.0244" },
+  "items": [
+    { "symbol": "NVDA", "name": "엔비디아", "marketCountry": "US", "currency": "USD", "quantity": "40", "lastPrice": "182.31", "averagePurchasePrice": "120.5",
+      "marketValue": { "purchaseAmount": "4820", "amount": "7292.4", "amountAfterCost": "7285.1" },
+      "profitLoss": { "amount": "2472.4", "amountAfterCost": "2465.1", "rate": "0.5129", "rateAfterCost": "0.5114" },
+      "dailyProfitLoss": { "amount": "-548.9", "rate": "-0.07" }, "cost": { "commission": "7.3", "tax": null } },
+    { "symbol": "QQQ", "name": "Invesco QQQ Trust", "marketCountry": "US", "currency": "USD", "quantity": "20", "lastPrice": "520.2", "averagePurchasePrice": "450",
+      "marketValue": { "purchaseAmount": "9000", "amount": "10404", "amountAfterCost": "10393.6" },
+      "profitLoss": { "amount": "1404", "amountAfterCost": "1393.6", "rate": "0.156", "rateAfterCost": "0.1548" },
+      "dailyProfitLoss": { "amount": "-255.8", "rate": "-0.024" }, "cost": { "commission": "10.4", "tax": null } },
+    { "symbol": "VOO", "name": "Vanguard S&P 500 ETF", "marketCountry": "US", "currency": "USD", "quantity": "15", "lastPrice": "560.7", "averagePurchasePrice": "480",
+      "marketValue": { "purchaseAmount": "7200", "amount": "8410.5", "amountAfterCost": "8402.1" },
+      "profitLoss": { "amount": "1210.5", "amountAfterCost": "1202.1", "rate": "0.1681", "rateAfterCost": "0.1669" },
+      "dailyProfitLoss": { "amount": "-128.1", "rate": "-0.015" }, "cost": { "commission": "8.4", "tax": null } },
+    { "symbol": "AAPL", "name": "애플", "marketCountry": "US", "currency": "USD", "quantity": "20", "lastPrice": "235.1", "averagePurchasePrice": "190",
+      "marketValue": { "purchaseAmount": "3800", "amount": "4702", "amountAfterCost": "4697.3" },
+      "profitLoss": { "amount": "902", "amountAfterCost": "897.3", "rate": "0.2374", "rateAfterCost": "0.2361" },
+      "dailyProfitLoss": { "amount": "-57.1", "rate": "-0.012" }, "cost": { "commission": "4.7", "tax": null } },
+    { "symbol": "005930", "name": "삼성전자", "marketCountry": "KR", "currency": "KRW", "quantity": "80", "lastPrice": "87000", "averagePurchasePrice": "72000",
+      "marketValue": { "purchaseAmount": "5760000", "amount": "6960000", "amountAfterCost": "6948000" },
+      "profitLoss": { "amount": "1200000", "amountAfterCost": "1188000", "rate": "0.2083", "rateAfterCost": "0.2063" },
+      "dailyProfitLoss": { "amount": "55200", "rate": "0.008" }, "cost": { "commission": "1044", "tax": "10440" } }
+  ]
+} }

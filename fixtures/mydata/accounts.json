@@ -1,0 +1,30 @@
+{
+  "asOf": "2026-09-22T06:00:00+09:00",
+  "accounts": [
+    {
+      "id": "mydata-samsung-brokerage", "org": "삼성증권", "name": "삼성증권 위탁계좌", "type": "brokerage",
+      "holdings": [
+        { "symbol": "000660", "quantity": 15, "avgPrice": 190000 },
+        { "symbol": "069500", "quantity": 100, "avgPrice": 38000 },
+        { "symbol": "TSLA", "quantity": 10, "avgPrice": 210 }
+      ],
+      "cash": [ { "currency": "KRW", "amount": 1500000 } ]
+    },
+    {
+      "id": "mydata-meritz-irp", "org": "메리츠증권", "name": "메리츠증권 IRP", "type": "irp",
+      "holdings": [
+        { "symbol": "360750", "quantity": 300, "avgPrice": 17500 },
+        { "symbol": "152380", "quantity": 300, "avgPrice": 10800 }
+      ],
+      "cash": [ { "currency": "KRW", "amount": 2000000 } ]
+    },
+    {
+      "id": "mydata-dc-pension", "org": "DC 퇴직연금", "name": "DC 퇴직연금 (회사)", "type": "dc",
+      "holdings": [
+        { "symbol": "133690", "quantity": 50, "avgPrice": 95000 },
+        { "symbol": "DC-DEPOSIT", "quantity": 8000000, "avgPrice": 1 }
+      ],
+      "cash": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{ "etf": "069500", "asOf": "2026-08-31", "source": "Samsung Asset KODEX 200 PDF (static POC snapshot)",
+  "holdings": [
+    { "symbol": "005930", "name": "삼성전자", "weightPct": 26.0 }, { "symbol": "000660", "name": "SK하이닉스", "weightPct": 16.0 },
+    { "symbol": "005380", "name": "현대차", "weightPct": 3.0 }, { "symbol": "207940", "name": "삼성바이오로직스", "weightPct": 3.0 },
+    { "symbol": "373220", "name": "LG에너지솔루션", "weightPct": 2.5 }, { "symbol": "105560", "name": "KB금융", "weightPct": 2.5 },
+    { "symbol": "000270", "name": "기아", "weightPct": 2.0 }, { "symbol": "068270", "name": "셀트리온", "weightPct": 2.0 },
+    { "symbol": "035420", "name": "NAVER", "weightPct": 1.8 }, { "symbol": "012450", "name": "한화에어로스페이스", "weightPct": 1.7 }
+  ] }

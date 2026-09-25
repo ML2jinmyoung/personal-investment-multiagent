@@ -1,0 +1,9 @@
+{ "etf": "VOO", "asOf": "2026-08-31", "source": "Vanguard holdings (static POC snapshot)",
+  "holdings": [
+    { "symbol": "NVDA", "name": "NVIDIA", "weightPct": 7.0 }, { "symbol": "MSFT", "name": "Microsoft", "weightPct": 6.5 },
+    { "symbol": "AAPL", "name": "Apple", "weightPct": 6.0 }, { "symbol": "AMZN", "name": "Amazon", "weightPct": 4.0 },
+    { "symbol": "META", "name": "Meta Platforms", "weightPct": 2.8 }, { "symbol": "AVGO", "name": "Broadcom", "weightPct": 2.5 },
+    { "symbol": "GOOGL", "name": "Alphabet A", "weightPct": 2.0 }, { "symbol": "TSLA", "name": "Tesla", "weightPct": 1.8 },
+    { "symbol": "GOOG", "name": "Alphabet C", "weightPct": 1.7 }, { "symbol": "BRK.B", "name": "Berkshire Hathaway B", "weightPct": 1.6 },
+    { "symbol": "JPM", "name": "JPMorgan Chase", "weightPct": 1.5 }, { "symbol": "LLY", "name": "Eli Lilly", "weightPct": 1.3 }
+  ] }
